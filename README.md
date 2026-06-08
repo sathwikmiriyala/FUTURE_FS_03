@@ -97,6 +97,10 @@ cafe-cozy/
 
 🔗 [View Live Site](https://your-username.github.io/cafe-cozy)
 
+## Task 3 Repo
+
+🔗[Task 3 Repo](https://github.com/sathwikmiriyala/FUTURE_FS_03)
+
 ---
 
 ## 🚢 Deploying to GitHub Pages
