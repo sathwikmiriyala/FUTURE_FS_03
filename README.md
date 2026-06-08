@@ -98,7 +98,7 @@ cafe-cozy/
 🔗  https://sathwikmiriyala.github.io/FUTURE_FS_03/
 ## Task 3 Repo
 
-🔗Task 3 Repo(https://github.com/sathwikmiriyala/FUTURE_FS_03)
+🔗https://github.com/sathwikmiriyala/FUTURE_FS_03
 
 ---
 
