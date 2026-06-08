@@ -129,7 +129,7 @@ Contributions are welcome! Here's how:
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
+- GitHub: [[@sathwikmiriyala](https://github.com/sathwikmiriyala)
 - Email: sathwikmiriyala11@gmail.com
 
 ---
