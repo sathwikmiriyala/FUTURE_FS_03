@@ -30,7 +30,6 @@
 | JavaScript | Interactivity |
 | Google Fonts | Typography |
 
-> *(Update this section based on the actual tech stack used in your project)*
 
 ---
 
